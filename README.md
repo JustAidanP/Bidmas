@@ -27,10 +27,10 @@ Returns:
 
 ### Operations
 The supported operations include:  
-* +
-* -
-* *
-* /
+* \+
+* \-
+* \*
+* \/
 
 ### Triganometric functions:
 * Sin:
