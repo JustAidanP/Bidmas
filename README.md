@@ -24,3 +24,24 @@ Returns:
 ```
 8.999975
 ```
+
+### Operations
+The supported operations include:  
+* +
+* -
+* *
+* /
+
+### Triganometric functions:
+* Sin:
+```
+s(YOUR CALCULATION)
+```  
+* Cos:
+```
+c(YOUR CALCULATION)
+```
+* Tan:
+```
+t(YOUR CALCULATION)
+```
