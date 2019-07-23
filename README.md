@@ -1,7 +1,7 @@
 # Bidmas
 A bidmas calculator in swift  
 
-##Usage
+## Usage
 First cd into the directory  
 
 ```
@@ -13,7 +13,7 @@ then run the command
 ```
 ./bidmas "YOUR CALCULATION"
 ```
-###Example
+### Example
 For example, the command:  
 
 ```
