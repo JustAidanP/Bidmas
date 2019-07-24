@@ -27,10 +27,26 @@ Returns:
 
 ### Operations
 The supported operations include:  
-* \+
+* \+:
+```
+NUM_1 + NUM_2
+```
 * \-
+```
+NUM_1 - NUM_2
+```
 * \*
+```
+NUM_1 * NUM_2
+```
 * \/
+```
+NUM_1 / NUM_2
+```
+* \^ - For Power operations
+```
+BASE ^ (POWER)
+```
 
 ### Triganometric functions:
 * Sin:
